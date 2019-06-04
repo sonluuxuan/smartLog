@@ -1,0 +1,2 @@
+# smartLog
+lectures and homework
